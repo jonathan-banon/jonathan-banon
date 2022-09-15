@@ -1,14 +1,21 @@
-### Hi there 👋, I'm Jonathan Banon
 
-- 🔭 I’m currently working on PHP / Symfony
+  ### Hi there 👋, I'm Jonathan Banon
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  ### About Me
+
+- 🔭 I’m currently working on PHP / Symfony / MySQL / Git
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: j.banon01@gmail.com
-- ⚡ Fun fact: I spend so much time to find a job that I totally forget to take care of my github 
+- ⚡ Fun fact: I spend so much time to find a job that I totally forget to take care of my Github 
 
-<!---
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### My Commit History 
 
 - 02/2021 => 07/2021 : Intense training on PHP / Symfony from Wild Code School
-  - MVC Gaming plateform with use API REST :  https://met.mezzaburo.fr/
-  - E-commerce site for renting childcare equipment in B to C for a young start-up "Gambin" on Symfony. : https://github.com/jonathan-banon/Gambin
--->
+- 08/2021 => 09/2021 : Participation on a voluntary project : https://github.com/Farrell-Shey/symfony-nathel
+- 09/2021 => 12/2021 : Intership on a Start-up " WDM STUDIO "
+- 03/2021 => 06/2021 : Intership on Groupe Qerys
+- 09/2021 : Developing on my next Symfony Personnal project 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
