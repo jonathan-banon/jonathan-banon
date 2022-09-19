@@ -19,3 +19,6 @@
 - 09/2021 : Developing on my next Symfony Personnal project 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Current Project "My check list"
+ 
+I noticed that many sport clubs manage their member's information with tons of paper and excel files. I want to help them digitize their data and progressively enable members to facilitate their tracking through an intuitive interface.
