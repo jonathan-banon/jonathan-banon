@@ -17,10 +17,10 @@
 - 09/2021 => 12/2021 : Intership on a Start-up " WDM STUDIO "
 - 03/2022 => 06/2022 : Intership on Groupe Qerys
 - 10/2022 => 11/2023 : apprenticeship on React / React Native from Wild Code School and AIO
-- 05/2024 : My first personal project "About-me" on React
+- 05/2024 => 07/2024 : My first personal project "About-me" on React
+- 10/2024 : New project on Angular ^^
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
- ### Current Project "About Me"
- 
-I needed to practice on React and I found my resume a little too static so I decided to make an online portfollio. 
-https://jonathan-banon.github.io/About-me/
+ ### Current Project "The Ocean's Fighters"
+
+ This project aims to make life easier for the administrative team of a boxing club and enhance their online visibility, all while exploring Angular.
