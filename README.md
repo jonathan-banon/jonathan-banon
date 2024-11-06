@@ -17,7 +17,7 @@
 - 09/2021 => 12/2021 : Intership on a Start-up " WDM STUDIO "
 - 03/2022 => 06/2022 : Intership on Groupe Qerys
 - 10/2022 => 11/2023 : apprenticeship on React / React Native from Wild Code School and AIO
-- 05/2024 => 07/2024 : My first personal project "About-me" on React
+- 05/2024 => 07/2024 : My first personal project "About-me" on React =>  https://jonathan-banon.github.io/About-me/
 - 10/2024 : New project on Angular ^^
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
