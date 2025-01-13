@@ -19,7 +19,7 @@
 - **03/2022 => 06/2022**: Internship at **Groupe Qerys**
 - **10/2022 => 11/2023**: Apprenticeship on **React / React Native** at Wild Code School and AIO
 - **05/2024 => 07/2024**: _About-me_ - My first personal project on **React** => [View the project](https://jonathan-banon.github.io/About-me/)
-- **12/2024 => Currently working**: _Symfony-Farm_ - Implementing a CRUD application with a back office using **Symfony** and **Vue.js**, incorporating DevOps tools, and designing responsive mockups => [View the project](https://jonathan-banon.github.io/Symfony-Farm/)
+- **12/2024 => Currently working**: _Symfony-Farm_ - Implementing a CRUD application with a back office using **Symfony** and **Vue.js**, incorporating DevOps tools, and designing responsive mockups => [View the project](https://github.com/jonathan-banon/Symfony_Farm)
 
 ---
 
